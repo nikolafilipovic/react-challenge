@@ -6,13 +6,12 @@ The goal of the challenge is to evaluate your coding abilities, experience and g
 - Coding standard, comments and style
 - Use of source control
 - Testing
-- Understand how you design a solution
 
 ## Intructions
 
 1. You will recieve an email from us, containing the challenge and the URL to this repository.
-2. Fork this repo [https://github.com/nikolafilipovic/js-fullstack-challenge](https://github.com/nikolafilipovic/js-fullstack-challenge) to save time on setup (or start from scratch if you wish)
-3. Spend about 1-3 hours working on this (the pre-configured repo should help with that)
+2. Fork this repo [https://github.com/nikolafilipovic/react-challenge](https://github.com/nikolafilipovic/react-challenge) to save time on setup (or start from scratch if you wish)
+3. Spend about 1-6 hours working on this (the pre-configured repo should help with that)
 4. Send us a link to a public GitHub repository with your code (or share a private one with the username `nikolafilipovic`)
 
 ## How to use this repo
